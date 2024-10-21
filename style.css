@@ -1,4 +1,18 @@
-h1 {
+* {
 
-    color:red;
+    margin:0;
+    padding: 0;
+ 
 }
+
+h1, h2, p {
+
+    background-color:rgba(155, 156, 242, 0.568);
+}
+
+h1 {
+    padding: 1rem 2rem 3rem 4rem;
+    margin: 2rem;
+    border: 3px dashed red;
+}
+
